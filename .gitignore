@@ -1,0 +1,13 @@
+auto-pairs/
+echodoc.vim/
+incsearch.vim/
+indentLine/
+nerdcommenter/
+nerdtree-git-plugin/
+nerdtree/
+vim-airline-themes/
+vim-airline/
+vim-fugitive/
+vim-gitgutter/
+vim-polyglot/
+vim-surround/
