@@ -32,7 +32,10 @@ Plug 'scrooloose/nerdcommenter'
 " Fugitive
 Plug 'tpope/vim-fugitive'
 
-"Gitgutter
+" Gitgutter
 Plug 'airblade/vim-gitgutter'
+
+" Coc
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
 call plug#end()

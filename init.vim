@@ -2,9 +2,9 @@ set title  " Muestra el nombre del archivo en la ventana de la terminal
 set number rnu " Muestre los números de las líneas
 set mouse=a  " Permite la integración del mouse (seleccionar texto, mover el cursor)
 
-set nowrap  " No dividir la línea si es muy larga
+"set nowrap  " No dividir la línea si es muy larga
 
-set colorcolumn=120  " Muestra la columna límite a 120 caracteres
+set colorcolumn=100  " Muestra la columna límite a 120 caracteres
 
 " Indentación a 2 espacios
 set tabstop=2
