@@ -11,3 +11,4 @@ vim-fugitive/
 vim-gitgutter/
 vim-polyglot/
 vim-surround/
+coc.nvim/
