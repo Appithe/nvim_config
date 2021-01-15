@@ -23,7 +23,7 @@ nnoremap <left> <nop>
 nnoremap <right> <nop>
 
 "--- NERDTree ---
-nnoremap <C-nt> :NERDTreeToggle<CR>
+nnoremap <C-n> :NERDTreeToggle<CR>
 
 "--- Coc ---
 inoremap <silent><expr> <TAB>
